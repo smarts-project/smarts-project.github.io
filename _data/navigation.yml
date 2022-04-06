@@ -1,0 +1,5 @@
+main:
+  - title: "Main"
+    url: /main-page/
+  - title: "About"
+    url: /about/
