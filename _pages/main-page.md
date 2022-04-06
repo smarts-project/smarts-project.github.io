@@ -1,6 +1,6 @@
 ---
 permalink: /main-page/
-title: "Welcome to the 2022 NeurIPS Competition of Autonomous Driving"
+title: "Welcome to the 2022 NeurIPS Driving SMARTS Competition"
 toc: true
 ---
 
@@ -18,15 +18,15 @@ Let’s get these cars moving!
 [Return to top](#the-competition)
 
 ## Competition Timeline
-The DAI 2020 SMARTS Competition of Autonomous Driving is a programming competition organised by Huawei Noah's Ark Lab. You pick your team to work together, and we pick a competition in the field of Artificial Intelligence for you to solve.
+The NeurIPS 2022 Driving SMARTS competition is a programming competition organised by Huawei Noah's Ark Lab. You pick your team to work together, and we pick a competition in the field of Artificial Intelligence for you to solve.
 
 Are you up for the challenge?
 
-Aug. 14, 2020: competition opens.
-* Oct. 14, 2020: competition closes at 11:59pm Pacific Time.
-* Oct. 19, 2020: winning teams announced.
-* Oct. 25: top-5 teams of each track will be invited to give an online technical presentation at the DAI 2020 conference.
-The final rank of the winning teams will be determined by the Academic Committee based on the leaderboard scores from automated evaluation, the techinical merits of the solutions, and the quality of the technical presentation at the DAI conference.
+Aug. 1, 2022: competition opens.
+* Nov. 1, 2022: competition closes at 11:59pm Pacific Time.
+* Nov. 5, 2022: finalists will be announced and will be asked to submit their code.
+* Nov. 20, 2022: winning teams announced.
+* Nov. 20, 2022: winning teams are invited to submit a short report of their proposed approach. The final rank of the winning teams will be determined by the Academic Committee based on the leaderboard scores from automated evaluation and the techinical merits of their solutions.
 
 [Return to top](#the-competition)
 
@@ -36,11 +36,9 @@ Cash prizes and winner certificates for our winners!
 [Return to top](#the-competition)
 
 ## Rules
-The Terms & Conditions for the DAI Competition gather all rules that apply to the organisers and participants of the competition. You can find a summary of the most important ones below:
+The Terms & Conditions for the NeurIPS Competition gather all rules that apply to the organisers and participants of the competition. You can find a summary of the most important ones below:
 
-[Return to top](#the-competition)
-
-## Eligibility
+### Eligibility
 To be eligible to enter the competition, all Participants must
 
 at the date of submission of the competition entry, you can register the competition through an email address which the Organiser can communicate with the Participant in connection with the competition;
@@ -50,7 +48,7 @@ be solely responsible for creating the competition submission, though supervisio
 [Return to top](#the-competition)
 
 ### How to enter
-The competition registration opens on 14th August 2020. The Competition itself commences on 14th August 2020 and ends at midnight on 14th October 2020 (the 'Dead-line'). Any competition submission after the Deadline will be automatically disqualified.
+The competition registration opens on early July 2022. The Competition itself commences on the 1st of August 2022 and ends at midnight on 1st November 2022 (the 'Dead-line'). Any competition submission after the Deadline will be automatically disqualified.
 
 The following describes how entries to the competition can be made:
 
