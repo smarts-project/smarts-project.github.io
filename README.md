@@ -1,4 +1,25 @@
-# Minimal Mistakes remote theme starter
+# Getting started
+
+## Easy modifications
+
+Update `_data/navigation.yml` to add more navigation destinations.
+Add more `markdown` or `html` in `_pages/` and list them using their [Front Matter](https://jekyllrb.com/docs/front-matter/) as following:
+```yaml
+---
+permalink: /about/
+title: "About"
+toc: true
+---
+```
+These can be referenced by resource in other locations:
+```markdown
+## Heading...
+Smart is... Go to [About](/about) to learn more.
+============
+```
+
+
+## Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 

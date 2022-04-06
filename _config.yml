@@ -57,17 +57,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  links:
-    - label: "Competition Site"
-      icon: "fas fa-fw fa-link"
-      url: "https://codalab.lisn.upsaclay.fr/competitions"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/huawei-noah/SMARTS"
-
 footer:
   links:
     - label: "Terms of Use"

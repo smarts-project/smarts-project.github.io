@@ -45,6 +45,8 @@ at the date of submission of the competition entry, you can register the competi
 either be single entrant or part of a team of up to a maximum of three (3) members only; and
 be solely responsible for creating the competition submission, though supervision or advice from the Participants’ professors or post-doctoral researchers is permissible.
 
+[See detailed eligibiity](/terms-of-use)
+
 [Return to top](#the-competition)
 
 ### How to enter
