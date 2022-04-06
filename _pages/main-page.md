@@ -1,5 +1,5 @@
 ---
-permalink: /main-page/
+permalink: /
 title: "Welcome to the 2022 NeurIPS Driving SMARTS Competition"
 toc: true
 ---
