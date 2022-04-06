@@ -70,13 +70,13 @@ author:
 footer:
   links:
     - label: "Terms of Use"
-      url: "/terms-of-use/"
-    - label: "Org"
-      icon: "fas fa-fw fa-link" # "https://api.iconify.design/simple-icons/huawei.svg"
-      url: "https://huawei.com/"
+      url: "/smarts-project.github.io/terms-of-use/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/huawei-noah/SMARTS"
+    - label: "Org"
+      icon: "fas fa-fw fa-link" # "https://api.iconify.design/simple-icons/huawei.svg"
+      url: "https://huawei.com/"
 
 defaults:
   # # _posts

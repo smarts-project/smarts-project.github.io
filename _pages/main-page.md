@@ -1,10 +1,8 @@
 ---
 permalink: /main-page/
-title: "Main Page"
+title: "Welcome to the 2020 DAI Competition of Autonomous Driving"
+toc: true
 ---
-
-
-# Welcome to the 2020 DAI Competition of Autonomous Driving
 
 ## The Competition
 
