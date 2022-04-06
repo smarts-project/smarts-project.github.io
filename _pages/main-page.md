@@ -1,6 +1,6 @@
 ---
 permalink: /main-page/
-title: "Welcome to the 2020 DAI Competition of Autonomous Driving"
+title: "Welcome to the 2022 NeurIPS Competition of Autonomous Driving"
 toc: true
 ---
 
