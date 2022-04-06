@@ -59,11 +59,10 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Competition Site"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://codalab.lisn.upsaclay.fr/competitions"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/huawei-noah/SMARTS"
@@ -71,9 +70,9 @@ author:
 footer:
   links:
     - label: "Terms of Use"
-      url: "/_pages/terms-of-use.md"
+      url: "/terms-of-use/"
     - label: "Org"
-      icon: "https://api.iconify.design/simple-icons/huawei.svg"
+      icon: "fas fa-fw fa-link" # "https://api.iconify.design/simple-icons/huawei.svg"
       url: "https://huawei.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
