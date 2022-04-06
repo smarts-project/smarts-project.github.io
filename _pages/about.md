@@ -1,8 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Driving SMARTS Competition
+Driving SMARTS Competition aims to heighten research attention from the machine learning (ML) community to challenges resulting from distribution shift in diverse dynamic interaction contexts prevalent in real-world autonomous driving (AD). Regardless of the solution methods, be it reinforcement learning (RL), imitation learning (IL), or classical planning and control, such challenges must be adequately addressed so that autonomous driving could see broader deployment, allowing more humanlike or human-friendly behavior, and allowing principled investigation into the opportunities and dangers in large scale deployment of autonomous cars into the open social enviornment of our streets and roads.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+© Copyright Huawei. All Rights Reserved
