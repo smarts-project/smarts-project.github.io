@@ -17,7 +17,7 @@ These can be referenced by resource in other locations:
 Smart is... Go to [About](/about) to learn more.
 ============
 ```
-
+Also see [Markdown basic syntax](https://www.markdownguide.org/basic-syntax/) for help with using `markdown`.
 
 ## Minimal Mistakes remote theme starter
 
