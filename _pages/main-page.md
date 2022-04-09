@@ -8,10 +8,17 @@ toc: true
 
 Autonomous Driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in a competition organised by Huawei Technologies Ltd. in autonomous decision making.
 
-Accelerate your future
-There are two separate tracks in the competition. Track 1 is focused on single-agent multi-lane cruising, Track 2 is focused on multi-agent safe driving. Your goal is to design an autonomous algorithm that is capable of driving safely and efficiently across a variety of simulated maps containing numerous tasks, such as merging, intersections, high-ways, and many others. We offer such scenarios through a simulator that emulates real-world traffic at a variety of granularity levels.
+The goal for the agent is to drive as quickly and safely as possible from the start to destination amid background traffic. Scenarios are created from real-world data and represent many typical driving tasks, including cruising, merging, overtaking, unprotected left turns, turns at unsignalized intersections, and following another vehicle.
 
-Winners will be announced in a ceremony, where cash prize will be provided with the winner certificate. You will also get the chance to teach us all about your innovations in a spot-light talk during the event.
+There are two tracks in the competition.
+
+**Track 1**: The participants are free to use any method and training data they like to develop their solutions. 
+
+**Track 2**: The partcipants are only allowed to train their methods on the offline datasets.
+
+**Bonus task**: Track 1 includes a *fast adaptation task*. The goal is to learn from a small sample of new tasks. To test this, the submissions that selected to participate in this task will be trained on a small unseen dataset.
+
+Winners in each track will receive cash prizes and will get a chance to present their innovative solutions during the virtual ceremony.
 
 Let’s get these cars moving!
 
@@ -30,8 +37,13 @@ Aug. 1, 2022: competition opens.
 
 [Return to top](#the-competition)
 
-## Prizes
-Cash prizes and winner certificates for our winners!
+### Prizes
+Top participants in each track will receive the following prizes:
+- **Gold** US$6000
+- **Silver** US$4000
+- **Bronze** US$2000
+- US$1000 for the **most innovative** approach out of top-6 finalists
+- US$1000 given to one of the valid submissions (not in top-3 positions)
 
 [Return to top](#the-competition)
 
@@ -50,7 +62,7 @@ be solely responsible for creating the competition submission, though supervisio
 [Return to top](#the-competition)
 
 ### How to enter
-The competition registration opens on early July 2022. The Competition itself commences on the 1st of August 2022 and ends at midnight on 1st November 2022 (the 'Dead-line'). Any competition submission after the Deadline will be automatically disqualified.
+The competition registration opens on early July 2022. The Competition itself commences on the 1st of August 2022 and ends at midnight on 1st November 2022 (the Deadline). Any competition submission after the Deadline will be automatically disqualified.
 
 The following describes how entries to the competition can be made:
 
@@ -60,7 +72,12 @@ The following describes how entries to the competition can be made:
 
 [Return to top](#the-competition)
 
-### The Simulator & Evaluation System
+### Evalutaion
+- The Organizer will evaluate submissions for Track 1 and 2 using the submitted pre-trained models and inference doe on the witheld test set. Six finalists will be selected in each track.
+- Those finalists in Track 1 who chose the bonus task will be asked to provide their training code. The Organizer will inspect the code, train and evaluate the models on the withheld data. The overall performance on the test set and bonus task will determine the three winners of Track 1.
+- The Organizer will work with the participants who selected the bonus task or Track 2 to run their training code, participants may be asked to provide additional documentation to facilitate this process.
+- The winners of Track 2 will be determined based on the performance of the models trained by the Organizer.
+
 The organizers will provide a simulation engine binary for participants to train on. Participants are to use their own method(s) to ensure that their car can successfully accomplish the task.
 
 Participants shall submit their models for testing and evaluation to generate a leader board included in the evaluation system. During the test, models are tested on environments where traffic conditions and order varies.
@@ -70,8 +87,7 @@ Participants are permitted to submit a maximum of 2 entries a day only to the co
 
 [Return to top](#the-competition)
 
-### Prizes
-We will award cash prizes to the three teams with top performance. The top five teams will also get certificates of qualification to the competition during the Award Ceremony.
+
 
 [Return to top](#the-competition)
 
