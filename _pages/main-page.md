@@ -6,34 +6,37 @@ toc: true
 
 ## The Competition
 
-Autonomous Driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in a competition organised by Huawei Technologies Ltd. in autonomous decision making.
+Autonomous driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in an autonomous driving competition organised by Huawei Technologies Ltd. and academic collaborators.
 
-The goal for the agent is to drive as quickly and safely as possible from the start to destination amid background traffic. Scenarios are created from real-world data and represent many typical driving tasks, including cruising, merging, overtaking, unprotected left turns, turns at unsignalized intersections, and following another vehicle.
+This competition seeks to advance development of autonomous driving agents. We selecte that can drive as quickly and safely as possible from the start to destination amid background traffic. Scenarios are created from real-world data and represent many typical driving tasks, including cruising, merging, overtaking, cut-ins, unprotected left turns and turns at unsignalized intersections.
 
+### Competition tracks
 There are two tracks in the competition.
 
-**Track 1**: The participants are free to use any method and training data they like to develop their solutions. 
-
-**Track 2**: The partcipants are only allowed to train their methods on the offline datasets.
+**Track 1**: The participants may use *any* method and training data to develop their solutions. 
 
 **Bonus task**: Track 1 includes a *fast adaptation task*. The goal is to learn from a small sample of new tasks. To test this, the submissions that selected to participate in this task will be trained on a small unseen dataset.
 
+**Track 2**: The partcipants are only allowed to train their methods on the *offline datasets*.
+
 Winners in each track will receive cash prizes and will get a chance to present their innovative solutions during the virtual ceremony.
 
-Let’s get these cars moving!
+### Scenarios
+
+### Data
+
+### Evaluation metrics
 
 [Return to top](#the-competition)
 
 ## Competition Timeline
-The NeurIPS 2022 Driving SMARTS competition is a programming competition organised by Huawei Noah's Ark Lab. You pick your team to work together, and we pick a competition in the field of Artificial Intelligence for you to solve.
+The NeurIPS 2022 Driving SMARTS competition is a programming competition organised by Huawei Noah's Ark Lab with a number of academic collaborators from Canadian universities.
 
-Are you up for the challenge?
-
-Aug. 1, 2022: competition opens.
+* Early July, 2022: registration opens.
+* Aug. 1, 2022: competition opens.
 * Nov. 1, 2022: competition closes at 11:59pm Pacific Time.
-* Nov. 5, 2022: finalists will be announced and will be asked to submit their code.
+* Nov. 5, 2022: finalists will be announced and will be asked to submit their code and models for evaluation.
 * Nov. 20, 2022: winning teams announced.
-* Nov. 20, 2022: winning teams are invited to submit a short report of their proposed approach. The final rank of the winning teams will be determined by the Academic Committee based on the leaderboard scores from automated evaluation and the techinical merits of their solutions.
 
 [Return to top](#the-competition)
 
@@ -47,47 +50,63 @@ Top participants in each track will receive the following prizes:
 
 [Return to top](#the-competition)
 
-## Rules
-The Terms & Conditions for the NeurIPS Competition gather all rules that apply to the organisers and participants of the competition. You can find a summary of the most important ones below:
+## General Rules
 
-### Eligibility
-To be eligible to enter the competition, all Participants must
-
-at the date of submission of the competition entry, you can register the competition through an email address which the Organiser can communicate with the Participant in connection with the competition;
-either be single entrant or part of a team of up to a maximum of three (3) members only; and
-be solely responsible for creating the competition submission, though supervision or advice from the Participants’ professors or post-doctoral researchers is permissible.
-
-[See detailed eligibiity](/terms-of-use)
+- Participants can be a single entrant or part of a team;
+- Participants must be registered for the competition prior to submitting an entry;
+- Participants must be solely responsible for creating the submission (receiving supervision or advice from supervisors or colleagues is permitted);
+- Participants must be able to share their training and inference code and trained models with the organizers;
+- For the participants or a team to be eligible for receiving awards, each member must satisfy the following conditions:
+  - be at least 18 years old or age of majority in place of residence;
+  - not be an organizer of this competition nor a family member of a competition organizer.
+- Participants can submit entries to both tracks; performance in each track will be evaluated separately. Submissions between tracks are not linked.
+- Any submissions entered after the Deadline will be automatically disqualified.
+- Official rule clarifications will be made in the FAQ section on the CodaLab competition website.
 
 [Return to top](#the-competition)
 
 ### How to enter
-The competition registration opens on early July 2022. The Competition itself commences on the 1st of August 2022 and ends at midnight on 1st November 2022 (the Deadline). Any competition submission after the Deadline will be automatically disqualified.
-
-The following describes how entries to the competition can be made:
-
-- the individual Participant or, if a team is entering, a member of that team as its representative on behalf of the others, must register with the Organiser through this website;
-- the Organiser will then send via email to the *registered* email address provided at registration an email which will include a guide to the third party evaluation system used to run the competition (the 'Evaluation System').
-- the Participant will be provided login details to the third party Evaluation System in order to be able to gain access to the competition and submit a competition entry. Please note that your use of the Evaluation System is subject to the Privacy Policy and Terms of Use of the operator of that system;
+- The individual Participant or, if a team is entering, a team representative, must register with the Organiser through this website.
+- The Participants will be provided login details to CodaLab to submit a competition entry.
+- Starter kit and necessary documentation will be provided upon registration.
 
 [Return to top](#the-competition)
 
-### Evalutaion
+### Determining the winners
+- Submissions for Track 1 will be automatically evaluated on a test set and the results will be posted on the public leaderboard hosted on CodaLab.
+- The finalists in Track 1 who shose the bonus track will be asked to provide their training code. The Organizer will inspect the code, train and evaluate the models on the withheld test data. The overall performance on the test set and bonus task will determine the three winners of Track 1.
 - The Organizer will evaluate submissions for Track 1 and 2 using the submitted pre-trained models and inference doe on the witheld test set. Six finalists will be selected in each track.
-- Those finalists in Track 1 who chose the bonus task will be asked to provide their training code. The Organizer will inspect the code, train and evaluate the models on the withheld data. The overall performance on the test set and bonus task will determine the three winners of Track 1.
-- The Organizer will work with the participants who selected the bonus task or Track 2 to run their training code, participants may be asked to provide additional documentation to facilitate this process.
 - The winners of Track 2 will be determined based on the performance of the models trained by the Organizer.
+- The Organizer will work with the participants who selected the bonus task or Track 2 to run their training code, participants may be asked to provide additional documentation to facilitate this process.
 
-The organizers will provide a simulation engine binary for participants to train on. Participants are to use their own method(s) to ensure that their car can successfully accomplish the task.
 
 Participants shall submit their models for testing and evaluation to generate a leader board included in the evaluation system. During the test, models are tested on environments where traffic conditions and order varies.
 Participants can use any deep learning framework they wish (e.g. Tensorflow, Pytorch). However, any cheating by using commercial tools, and these results are not permitted and any such entries will be disqualified. Top performing teams on the leader-board will be required to provide their code to the Organiser, who will run the code to verify that it reproduces the same results as submitted by the Participants to the competition and to otherwise verify that the submission is valid.
-
 Participants are permitted to submit a maximum of 2 entries a day only to the competition. To be clear if a team enters, this maximum of entries is 2 times of the number the members.
 
 [Return to top](#the-competition)
 
+### Competition Organizing Committee
+- **Amir Rasouli**
+  - Senior Research Scientist, Huawei Noah's Ark Lab
+- **Matthew E. Taylor**
+  - Associate Professor, University of Alberta
+- **Animesh Garg**
+  - Assistant Professor, University of Toronto
+- **Iuliia Kotseruba**
+  - PhD Candidate, York University
+- **Tianpei Yang**
+  - Postdoctoral Researcher, University of Alberta
+- **Soheil Shabestary**
+  - Senior Engineer, Huawei Noah's Ark Lab
+- **Montgomery Alban**
+  - Senior Software Engineer, Huawei Noah's Ark Lab
+- **Florian Shkurti**
+  - Asisstant Professor, University of Toronto
+- **David Meger**
+  - Assistant Professor, McGill University
 
+Organizers can be reached at [**smarts4d@gmail.com**](mailto:smarts4d@gmail.com).
 
 [Return to top](#the-competition)
 
