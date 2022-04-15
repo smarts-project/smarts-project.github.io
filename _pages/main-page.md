@@ -8,7 +8,9 @@ toc: true
 
 Autonomous driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in an autonomous driving competition organised by Huawei Technologies Ltd. and academic collaborators.
 
-This competition seeks to advance development of autonomous driving agents. We selecte that can drive as quickly and safely as possible from the start to destination amid background traffic. Scenarios are created from real-world data and represent many typical driving tasks, including cruising, merging, overtaking, cut-ins, unprotected left turns and turns at unsignalized intersections.
+This competition seeks to advance autonomous driving by developing agents that can drive as quickly and safely as possible from the start to destination amid background traffic. Data for the competition consists of large-scale naturalistic driving data replayed within [SMARTS](https://github.com/huawei-noah/SMARTS) simulation environment. The following typical driving scenarios are tested: cruising, overtaking, merging, left turns at unsignalized intersections and being cut off by another vehicle. These scenarios are mined from the naturalistic data, manipulated and replayed in SMARTS. For some scenarios, interactive background vehicles will be added in SMARTS.
+
+Agents will be ranked according to their safety (number of collisions and traffic rule violations), task completion (% of completed scenarios), human-likeness (measured as jerkiness, acceleration, and lateral distance to surrounding vehicles), and completion time.
 
 ### Competition tracks
 There are two tracks in the competition.
@@ -20,12 +22,6 @@ There are two tracks in the competition.
 **Track 2**: The partcipants are only allowed to train their methods on the *offline datasets*.
 
 Winners in each track will receive cash prizes and will get a chance to present their innovative solutions during the virtual ceremony.
-
-### Scenarios
-
-### Data
-
-### Evaluation metrics
 
 [Return to top](#the-competition)
 
@@ -58,31 +54,27 @@ Top participants in each track will receive the following prizes:
 - Participants must be able to share their training and inference code and trained models with the organizers;
 - For the participants or a team to be eligible for receiving awards, each member must satisfy the following conditions:
   - be at least 18 years old or age of majority in place of residence;
-  - not be an organizer of this competition nor a family member of a competition organizer.
-- Participants can submit entries to both tracks; performance in each track will be evaluated separately. Submissions between tracks are not linked.
-- Any submissions entered after the Deadline will be automatically disqualified.
-- Official rule clarifications will be made in the FAQ section on the CodaLab competition website.
+  - not be an organizer of this competition nor a family member of a competition organizer;
+- Any submissions entered after the competition closes will be automatically disqualified;
+- Official rule clarifications will be made in the FAQ section on the CodaLab competition website. 
 
 [Return to top](#the-competition)
 
 ### How to enter
-- The individual Participant or, if a team is entering, a team representative, must register with the Organiser through this website.
-- The Participants will be provided login details to CodaLab to submit a competition entry.
-- Starter kit and necessary documentation will be provided upon registration.
+- The individual participant or, if a team is entering, a team representative, must register with the Organiser through this website.
+- The participants will be provided login details to CodaLab to submit a competition entry;
+- Starter kit and necessary documentation will be available upon registration;
+- The entry sumitted by the participant will consist of the pretrained model and inference code. Select participants who opted to compete in the bonus task or track 2 will be requested to submit their training code.
+- Participants may submit up to 3 entries to the competition.
 
 [Return to top](#the-competition)
 
 ### Determining the winners
 - Submissions for Track 1 will be automatically evaluated on a test set and the results will be posted on the public leaderboard hosted on CodaLab.
-- The finalists in Track 1 who shose the bonus track will be asked to provide their training code. The Organizer will inspect the code, train and evaluate the models on the withheld test data. The overall performance on the test set and bonus task will determine the three winners of Track 1.
-- The Organizer will evaluate submissions for Track 1 and 2 using the submitted pre-trained models and inference doe on the witheld test set. Six finalists will be selected in each track.
-- The winners of Track 2 will be determined based on the performance of the models trained by the Organizer.
-- The Organizer will work with the participants who selected the bonus task or Track 2 to run their training code, participants may be asked to provide additional documentation to facilitate this process.
-
-
-Participants shall submit their models for testing and evaluation to generate a leader board included in the evaluation system. During the test, models are tested on environments where traffic conditions and order varies.
-Participants can use any deep learning framework they wish (e.g. Tensorflow, Pytorch). However, any cheating by using commercial tools, and these results are not permitted and any such entries will be disqualified. Top performing teams on the leader-board will be required to provide their code to the Organiser, who will run the code to verify that it reproduces the same results as submitted by the Participants to the competition and to otherwise verify that the submission is valid.
-Participants are permitted to submit a maximum of 2 entries a day only to the competition. To be clear if a team enters, this maximum of entries is 2 times of the number the members.
+- Top-6 finalists in Track 1 who chose to compete in the bonus track will be asked to provide their training code. The organizers will inspect the code, train and evaluate the models on the withheld test data. The overall performance on the test set and bonus task will determine the three winners of Track 1.
+- Top-6 finalists in Track 1 that use offline methods will be invited to submit their training and inference code. The organizers will train and evaluate the models on the withheld dataset. 
+- Winners of Track 2 will be determined based on the performance of the models trained by the Organizer.
+- The organizers will work with the participants who selected the bonus task or Track 2 to run their training code, participants may be asked to provide additional documentation to facilitate this process.
 
 [Return to top](#the-competition)
 
@@ -105,6 +97,8 @@ Participants are permitted to submit a maximum of 2 entries a day only to the co
   - Asisstant Professor, University of Toronto
 - **David Meger**
   - Assistant Professor, McGill University
+- **Jun Luo**
+  - Distinguished Researcher, Huawei Noah's Ark Lab  
 
 Organizers can be reached at [**smarts4d@gmail.com**](mailto:smarts4d@gmail.com).
 
