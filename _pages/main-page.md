@@ -27,7 +27,7 @@ Winners in each track will receive cash prizes and will get a chance to present 
 
 [Return to top](#the-competition)
 
-## Competition Timeline
+### Competition Timeline
 The NeurIPS 2022 Driving SMARTS competition is a programming competition organised by Huawei Noah's Ark Lab with a number of academic collaborators from Canadian universities.
 
 * Early July, 2022: registration opens.
@@ -71,7 +71,7 @@ Top participants in each track will receive the following prizes:
 
 [Return to top](#the-competition)
 
-### Determining the winners
+### How winners are determined
 - Submissions for Track 1 will be automatically evaluated on a test set and the results will be posted on the public leaderboard hosted on CodaLab.
 - Top-6 finalists in Track 1 who chose to compete in the bonus track will be asked to provide their training code. The organizers will inspect the code, train and evaluate the models on the withheld test data. The overall performance on the test set and bonus task will determine the three winners of Track 1.
 - Top-6 finalists in Track 1 that use offline methods will be invited to submit their training and inference code. The organizers will train and evaluate the models on the withheld dataset. 
