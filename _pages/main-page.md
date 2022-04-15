@@ -80,7 +80,9 @@ Top participants in each track will receive the following prizes:
 
 [Return to top](#the-competition)
 
-### Competition Organizing Committee
+## FAQ
+
+## Competition Organizing Committee
 - **Amir Rasouli**
   - Senior Research Scientist, Huawei Noah's Ark Lab
 - **Matthew E. Taylor**
