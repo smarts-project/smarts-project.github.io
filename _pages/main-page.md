@@ -43,8 +43,10 @@ Top participants in each track will receive the following prizes:
 - **Gold** US$6000
 - **Silver** US$4000
 - **Bronze** US$2000
-- US$1000 for the **most innovative** approach out of top-6 finalists
-- US$1000 given to one of the valid submissions (not in top-3 positions)
+
+Additional prizes:
+- US$1000 for the **most innovative** approach out of top-6 entries in both tracks
+- US$1000 given to one of the valid submissions not in top-3 positions in either track
 
 [Return to top](#the-competition)
 
