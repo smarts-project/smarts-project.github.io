@@ -82,6 +82,8 @@ Top participants in each track will receive the following prizes:
 ## FAQ
 Official rule clarifications will be posted here.
 
+[Return to top](#the-competition)
+
 ## Competition Organizing Committee
 - **Amir Rasouli**
   - Senior Research Scientist, Huawei Noah's Ark Lab
@@ -103,6 +105,8 @@ Official rule clarifications will be posted here.
   - Assistant Professor, McGill University
 - **Jun Luo**
   - Distinguished Researcher, Huawei Noah's Ark Lab  
+
+[Return to top](#the-competition)
 
 ## Contact
 Organizers can be reached at [**smarts4d@gmail.com**](mailto:smarts4d@gmail.com).
