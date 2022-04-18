@@ -95,7 +95,7 @@ Official rule clarifications will be posted here.
   - PhD Candidate, York University
 - **Tianpei Yang**
   - Postdoctoral Researcher, University of Alberta
-- **Soheil Shabestary**
+- **Soheil Alizadeh**
   - Senior Engineer, Huawei Noah's Ark Lab
 - **Montgomery Alban**
   - Senior Software Engineer, Huawei Noah's Ark Lab
