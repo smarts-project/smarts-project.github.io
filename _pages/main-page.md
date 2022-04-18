@@ -57,8 +57,7 @@ Top participants in each track will receive the following prizes:
 - For the participants or a team to be eligible for receiving awards, each member must satisfy the following conditions:
   - be at least 18 years old or age of majority in place of residence;
   - not be an organizer of this competition nor a family member of a competition organizer;
-- Any submissions entered after the competition closes will be automatically disqualified;
-- Official rule clarifications will be made in the FAQ section on the CodaLab competition website. 
+- Any submissions entered after the competition closes will be automatically disqualified. 
 
 [Return to top](#the-competition)
 
@@ -81,6 +80,7 @@ Top participants in each track will receive the following prizes:
 [Return to top](#the-competition)
 
 ## FAQ
+Official rule clarifications will be posted here.
 
 ## Competition Organizing Committee
 - **Amir Rasouli**
@@ -104,6 +104,7 @@ Top participants in each track will receive the following prizes:
 - **Jun Luo**
   - Distinguished Researcher, Huawei Noah's Ark Lab  
 
+## Contact
 Organizers can be reached at [**smarts4d@gmail.com**](mailto:smarts4d@gmail.com).
 
 [Return to top](#the-competition)
