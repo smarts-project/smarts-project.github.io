@@ -91,8 +91,6 @@ Official rule clarifications will be posted here.
   - Senior Research Scientist, Huawei Noah's Ark Lab
 - **Matthew E. Taylor**
   - Associate Professor, University of Alberta
-- **Animesh Garg**
-  - Assistant Professor, University of Toronto
 - **Iuliia Kotseruba**
   - PhD Candidate, York University
 - **Tianpei Yang**
@@ -103,10 +101,17 @@ Official rule clarifications will be posted here.
   - Senior Software Engineer, Huawei Noah's Ark Lab
 - **Florian Shkurti**
   - Asisstant Professor, University of Toronto
+
+
+### Technical advisers
+- **Animesh Garg**
+  - Assistant Professor, University of Toronto
 - **David Meger**
   - Assistant Professor, McGill University
 - **Jun Luo**
-  - Distinguished Researcher, Huawei Noah's Ark Lab  
+  - Distinguished Researcher, Huawei Noah's Ark Lab
+- **Randy Goebel**
+  - Professor, University of Alberta 
 
 [Return to top](#the-competition)
 
