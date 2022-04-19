@@ -103,7 +103,7 @@ Official rule clarifications will be posted here.
   - Asisstant Professor, University of Toronto
 
 
-### Technical advisers
+### Advisers
 - **Animesh Garg**
   - Assistant Professor, University of Toronto
 - **David Meger**
