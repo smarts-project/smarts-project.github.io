@@ -123,7 +123,7 @@ Official rule clarifications will be posted here.
 [Return to top](#the-competition)
 
 ## Contact Us
-Organizers can be reached at [**smarts4d@gmail.com**](mailto:smarts4d@gmail.com).
+Organizers can be reached at [**smarts4ad@gmail.com**](mailto:smarts4ad@gmail.com).
 
 [Return to top](#the-competition)
 
