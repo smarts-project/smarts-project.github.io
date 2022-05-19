@@ -34,7 +34,7 @@ The NeurIPS 2022 Driving SMARTS competition is a programming competition organis
 * Aug. 1, 2022: competition opens.
 * Nov. 1, 2022: competition closes at 11:59pm Pacific Time.
 * Nov. 5, 2022: finalists will be announced and will be asked to submit their code and models for evaluation.
-* Nov. 20, 2022: winning teams announced.
+* Nov. 15, 2022: winning teams announced.
 
 [Return to top](#the-competition)
 
@@ -89,6 +89,10 @@ Official rule clarifications will be posted here.
 ## Competition Organizing Committee
 - **Amir Rasouli**
   - Senior Research Scientist, Huawei Noah's Ark Lab
+- **Randy Goebel**
+  - Professor, University of Alberta
+- **Adam Scibior**
+  - CTO and co-founder, Inverted AI
 - **Matthew E. Taylor**
   - Associate Professor, University of Alberta
 - **Iuliia Kotseruba**
@@ -101,7 +105,10 @@ Official rule clarifications will be posted here.
   - Senior Software Engineer, Huawei Noah's Ark Lab
 - **Florian Shkurti**
   - Asisstant Professor, University of Toronto
-
+- **Yuzheng Zhuang**
+  - Senior Research Scientist, Huawei Noah's Ark Lab HQ
+- **Kasra Rezaee**
+  - Senior Research Engineer, Huawei Noah's Ark Lab  
 
 ### Advisers
 - **Animesh Garg**
@@ -110,8 +117,8 @@ Official rule clarifications will be posted here.
   - Assistant Professor, McGill University
 - **Jun Luo**
   - Distinguished Researcher, Huawei Noah's Ark Lab
-- **Randy Goebel**
-  - Professor, University of Alberta 
+- **Liam Paull**
+  - Assistant Professor, University of Montreal 
 
 [Return to top](#the-competition)
 
