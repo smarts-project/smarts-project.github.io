@@ -106,9 +106,13 @@ Official rule clarifications will be posted here.
 - **Florian Shkurti**
   - Asisstant Professor, University of Toronto
 - **Yuzheng Zhuang**
-  - Senior Research Scientist, Huawei Noah's Ark Lab HQ
+  - Senior Research Scientist, Huawei Noah's Ark Lab
 - **Kasra Rezaee**
   - Senior Research Engineer, Huawei Noah's Ark Lab  
+- **Xinyu Wang**
+  - Principal Researcher, Huawei Car BU
+- **Weinan Zhang**
+  - Associate Processor, Shanghai Jiao Tong University
 
 ### Advisers
 - **Animesh Garg**
