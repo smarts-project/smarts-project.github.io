@@ -116,7 +116,7 @@ Official rule clarifications will be posted here.
 - **Kasra Rezaee**
   - Senior Research Engineer, Huawei Noah's Ark Lab  
 - **Xinyu Wang**
-  - Control Chief Architect, Huawei Car BU
+  - ADS Planning and Control Chief Architect, IAS BU
 - **Weinan Zhang**
   - Associate Processor, Shanghai Jiao Tong University
 
