@@ -8,9 +8,12 @@ toc: true
 
 Autonomous driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in an autonomous driving competition organised by Huawei Technologies Ltd. and academic collaborators.
 
+## The competition is now live at codalab:
+# [2022 Neurips Driving SMARTS Competition](https://codalab.lisn.upsaclay.fr/competitions/6618)
+
 
 ### Tasks and evaluation
-This competition seeks to advance autonomous driving by developing agents that can drive as quickly and safely as possible from the start to destination amid background traffic. Data for the competition consists of large-scale naturalistic driving data replayed within [SMARTS](https://github.com/huawei-noah/SMARTS) simulation environment. The following typical driving scenarios are tested: cruising, overtaking, merging, left turns at unsignalized intersections and being cut off by another vehicle. These scenarios are mined from the naturalistic data, manipulated and replayed in SMARTS. For some scenarios, interactive background vehicles are added in SMARTS.
+This competition seeks to advance autonomous driving by developing agents that can drive as quickly and safely as possible from the start to destination amid background traffic. Data for the competition consists of large-scale naturalistic driving data replayed within [SMARTS](https://github.com/huawei-noah/SMARTS/tree/comp-1) simulation environment. The following typical driving scenarios are tested: cruising, overtaking, merging, left turns at unsignalized intersections and being cut off by another vehicle. These scenarios are mined from the naturalistic data, manipulated and replayed in SMARTS. For some scenarios, interactive background vehicles are added in SMARTS.
 
 Agents will be ranked according to their safety (number of collisions and traffic rule violations), task completion (% of completed scenarios), human-likeness (measured as jerkiness, acceleration, and lateral distance to surrounding vehicles), and completion time.
 
@@ -71,6 +74,9 @@ Additional prizes:
 - Participants may submit up to 3 entries to the competition.
 
 [Return to top](#the-competition)
+
+## Submission site
+The competition is run from the following site: [Driving SMARTS Competition submission](https://codalab.lisn.upsaclay.fr/competitions/6618)
 
 ### How winners are determined
 - Submissions for Track 1 will be automatically evaluated on a test set and the results will be posted on the public leaderboard hosted on CodaLab.
