@@ -33,7 +33,6 @@ Winners in each track will receive cash prizes and will get a chance to present 
 ### Competition timeline
 The NeurIPS 2022 Driving SMARTS competition is a programming competition organised by Huawei Noah's Ark Lab with a number of academic collaborators from Canadian universities.
 
-* Early July, 2022: registration opens.
 * Aug. 1, 2022: competition opens.
 * Nov. 1, 2022: competition closes at 11:59pm Pacific Time.
 * Nov. 5, 2022: finalists will be announced and will be asked to submit their code and models for evaluation.
