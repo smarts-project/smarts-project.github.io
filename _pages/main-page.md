@@ -22,8 +22,6 @@ There are two tracks in the competition.
 
 **Track 1**: The participants may use *any* method and training data to develop their solutions. 
 
-**Bonus task**: Track 1 includes a *fast adaptation task*. The goal is to learn from a small sample of new tasks. To test this, the submissions that selected to participate in this task will be trained on a small unseen dataset.
-
 **Track 2**: The partcipants are only allowed to train their methods on the *offline datasets*.
 
 Winners in each track will receive cash prizes and will get a chance to present their innovative solutions during the virtual ceremony.
@@ -69,7 +67,7 @@ Additional prizes:
 - The individual participant or, if a team is entering, a team representative, must register with the Organiser through this website.
 - The participants will be provided login details to CodaLab to submit a competition entry;
 - Starter kit and necessary documentation will be available upon registration;
-- The entry sumitted by the participant will consist of the pretrained model and inference code. Select participants who opted to compete in the bonus task or track 2 will be requested to submit their training code.
+- The entry sumitted by the participant will consist of the pretrained model and inference code. Select participants who opted to compete in track 2 will be requested to submit their training code.
 - Participants may submit up to 3 entries to the competition.
 
 [Return to top](#the-competition)
@@ -79,10 +77,9 @@ The competition is run from the following site: [Driving SMARTS Competition subm
 
 ### How winners are determined
 - Submissions for Track 1 will be automatically evaluated on a test set and the results will be posted on the public leaderboard hosted on CodaLab.
-- Top-6 finalists in Track 1 who chose to compete in the bonus track will be asked to provide their training code. The organizers will inspect the code, train and evaluate the models on the withheld test data. The overall performance on the test set and bonus task will determine the three winners of Track 1.
 - Top-6 finalists in Track 1 that use offline methods will be invited to submit their training and inference code. The organizers will train and evaluate the models on the withheld dataset. 
 - Winners of Track 2 will be determined based on the performance of the models trained by the Organizer.
-- The organizers will work with the participants who selected the bonus task or Track 2 to run their training code, participants may be asked to provide additional documentation to facilitate this process.
+- The organizers will work with the participants who selected Track 2 to run their training code, participants may be asked to provide additional documentation to facilitate this process.
 
 [Return to top](#the-competition)
 
