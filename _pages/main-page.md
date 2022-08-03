@@ -58,13 +58,13 @@ Additional prizes:
 - Participants must be able to share their training and inference code and trained models with the organizers;
 - For the participants or a team to be eligible for receiving awards, each member must satisfy the following conditions:
   - be at least 18 years old or age of majority in place of residence;
-  - not be an organizer of this competition nor a family member of a competition organizer;
+  - not be an organizer of this competition nor employee of Huawei or a family member of a competition organizer;
 - Any submissions entered after the competition closes will be automatically disqualified. 
 
 [Return to top](#the-competition)
 
 ### How to enter
-- The individual participant or, if a team is entering, a team representative, must register with the Organiser through this website.
+- The individual participant or, if a team is entering, a team representative, must register with the Organiser through the ["2022 Neurips Driving SMARTS Competition" site](https://codalab.lisn.upsaclay.fr/competitions/6618).
 - The participants will be provided login details to CodaLab to submit a competition entry;
 - Starter kit and necessary documentation will be available upon registration;
 - The entry sumitted by the participant will consist of the pretrained model and inference code. Select participants who opted to compete in track 2 will be requested to submit their training code.
