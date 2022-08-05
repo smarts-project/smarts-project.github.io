@@ -90,7 +90,7 @@ Official rule clarifications will be posted here.
 
 ## Competition Organizing Committee
 - **Amir Rasouli**
-  - Senior Research Scientist, Huawei Noah's Ark Lab
+  - Senior Staff Engineer, Huawei Noah's Ark Lab
 - **Randy Goebel**
   - Professor, University of Alberta
 - **Adam Scibior**
@@ -102,7 +102,7 @@ Official rule clarifications will be posted here.
 - **Tianpei Yang**
   - Postdoctoral Researcher, University of Alberta
 - **Soheil Alizadeh**
-  - Senior Engineer, Huawei Noah's Ark Lab
+  - Research Engineer, Huawei Noah's Ark Lab
 - **Montgomery Alban**
   - Senior Software Engineer, Huawei Noah's Ark Lab
 - **Florian Shkurti**
@@ -110,12 +110,13 @@ Official rule clarifications will be posted here.
 - **Yuzheng Zhuang**
   - Senior Research Scientist, Huawei Noah's Ark Lab
 - **Kasra Rezaee**
-  - Senior Research Engineer, Huawei Noah's Ark Lab  
+  - Staff Engineer, Huawei Noah's Ark Lab  
 - **Xinyu Wang**
   - ADS Planning and Control Chief Architect, IAS BU
 - **Weinan Zhang**
   - Associate Processor, Shanghai Jiao Tong University
-
+- **Xi Chen**
+  - Senior Principal Engineer, Huawei Noah's Ark Lab & Adjunct Professor, McGill University 
 ### Advisers
 - **Animesh Garg**
   - Assistant Professor, University of Toronto
