@@ -15,7 +15,7 @@ Autonomous driving (AD) is the next frontier of artificial intelligence and mach
 ### Tasks and evaluation
 This competition seeks to advance autonomous driving by developing agents that can drive as quickly and safely as possible from the start to destination amid background traffic. Data for the competition consists of large-scale naturalistic driving data replayed within [SMARTS](https://github.com/huawei-noah/SMARTS/tree/comp-1) simulation environment. The following typical driving scenarios are tested: cruising, overtaking, merging, left turns at unsignalized intersections and being cut off by another vehicle. These scenarios are mined from the naturalistic data, manipulated and replayed in SMARTS. For some scenarios, interactive background vehicles are added in SMARTS.
 
-Agents will be ranked according to their safety (number of collisions and traffic rule violations), task completion (% of completed scenarios), human-likeness (measured as jerkiness, acceleration, and lateral distance to surrounding vehicles), and completion time.
+Agents will be ranked according to metrics on safety and comfort (smoothness and safe driving), task completion (% of completed scenarios), traffic rule violation, and completion time.
 
 ### Competition tracks
 There are two tracks in the competition.
