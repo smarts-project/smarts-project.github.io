@@ -22,7 +22,7 @@ There are two tracks in the competition.
 
 **Track 1**: The participants may use *any* method and training data to develop their solutions. 
 
-**Track 2**: The partcipants are only allowed to train their methods on the *offline datasets*.
+**Track 2**: The participants are only allowed to train their methods on the *offline datasets*.
 
 Winners in each track will receive cash prizes and will get a chance to present their innovative solutions during the virtual ceremony.
 
@@ -33,7 +33,7 @@ The NeurIPS 2022 Driving SMARTS competition is a programming competition organis
 
 * Aug. 1, 2022: competition opens.
 * Nov. 1, 2022: competition closes at 11:59pm Pacific Time.
-* Nov. 5, 2022: finalists will be announced and will be asked to submit their code and models for evaluation.
+* Nov. 5, 2022: finalists will be announced and will be asked to submit their code and models for evaluation for track 2.
 * Nov. 15, 2022: winning teams announced.
 
 [Return to top](#the-competition)
