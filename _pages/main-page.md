@@ -137,7 +137,7 @@ Organizers can be reached at [**smarts4ad@gmail.com**](mailto:smarts4ad@gmail.co
 ## Organizers
 
 {:style="text-align:center"}
-![University of Alberta](https://user-images.githubusercontent.com/69439799/196953519-479e3cb8-292b-49bf-ad59-c2bdc1e82fdb.png)
+![University of Alberta](https://www.ualberta.ca/_assets/images/ua-logo-green.svg)
 ![University of Toronto](https://user-images.githubusercontent.com/69439799/196953728-61672f42-99f8-4555-bb79-576e04d0dcdf.png)
 ![York University](https://user-images.githubusercontent.com/69439799/196953742-7ec4d140-d99b-48da-ad26-2e632c49ce6a.png)  
 
