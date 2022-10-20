@@ -6,7 +6,7 @@ toc: true
 
 ## The Competition
 
-Autonomous driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in an autonomous driving competition organised by Huawei Technologies Ltd. and academic collaborators.
+Autonomous driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in an autonomous driving competition organised by NCRN and academic collaborators.
 
 ## The competition is now live at codalab:
 # [2022 Neurips Driving SMARTS Competition](https://codalab.lisn.upsaclay.fr/competitions/6618)
@@ -29,7 +29,7 @@ Winners in each track will receive cash prizes and will get a chance to present 
 [Return to top](#the-competition)
 
 ### Competition timeline
-The NeurIPS 2022 Driving SMARTS competition is a programming competition organised by Huawei Noah's Ark Lab with a number of academic collaborators from Canadian universities.
+The NeurIPS 2022 Driving SMARTS competition is a programming competition organised by NCRN and academic collaborators from Canadian universities.
 
 * Aug. 1, 2022: competition opens.
 * Nov. 1, 2022: competition closes at 11:59pm Pacific Time.
@@ -58,7 +58,7 @@ Additional prizes:
 - Participants must be able to share their training and inference code and trained models with the organizers;
 - For the participants or a team to be eligible for receiving awards, each member must satisfy the following conditions:
   - be at least 18 years old or age of majority in place of residence;
-  - not be an organizer of this competition nor employee of Huawei or a family member of a competition organizer;
+  - not be an organizer of this competition or a family member of a competition organizer;
 - Any submissions entered after the competition closes will be automatically disqualified. 
 
 [Return to top](#the-competition)
