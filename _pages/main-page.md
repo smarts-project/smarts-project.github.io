@@ -138,29 +138,24 @@ Organizers can be reached at [**smarts4ad@gmail.com**](mailto:smarts4ad@gmail.co
 
 {:style="text-align:center"}
 ![University of Alberta](https://user-images.githubusercontent.com/69439799/196953519-479e3cb8-292b-49bf-ad59-c2bdc1e82fdb.png)
+![University of Toronto](https://user-images.githubusercontent.com/69439799/196953728-61672f42-99f8-4555-bb79-576e04d0dcdf.png)
+![York University](https://user-images.githubusercontent.com/69439799/196953742-7ec4d140-d99b-48da-ad26-2e632c49ce6a.png)  
 
-<p align="center">
-  <img alt="University of Alberta" src=https://user-images.githubusercontent.com/69439799/196953519-479e3cb8-292b-49bf-ad59-c2bdc1e82fdb.png>
-  <img alt="University of Toronto" src=https://user-images.githubusercontent.com/69439799/196953728-61672f42-99f8-4555-bb79-576e04d0dcdf.png>
-  <img alt="York University" src=https://user-images.githubusercontent.com/69439799/196953742-7ec4d140-d99b-48da-ad26-2e632c49ce6a.png>
-</p>
-<p align="center">
-  <img alt="Universite de Montreal" src=https://user-images.githubusercontent.com/69439799/196953954-609896af-d05d-4801-bdb6-91bfa3898290.png>
-  <img alt="McGill University" src=https://user-images.githubusercontent.com/69439799/196954083-c4b2cccf-d131-471b-8aa1-4acfc63ceb29.png>
-</p>
-<p align="center">
-  <img width="120" height="120" alt="NCRN RCRC" src=https://user-images.githubusercontent.com/69439799/196953417-d39ba2b1-eff1-443b-90ca-5d8657749dc1.png>
-  <img width="120" height="120" alt="Noah's Ark" src=https://user-images.githubusercontent.com/69439799/196953928-7e9ac318-4206-47e2-98b2-5dd398fb3a64.png>
-</p>
+{:style="text-align:center"}
+![Universite de Montreal](https://user-images.githubusercontent.com/69439799/196953954-609896af-d05d-4801-bdb6-91bfa3898290.png)
+![McGill University](https://user-images.githubusercontent.com/69439799/196954083-c4b2cccf-d131-471b-8aa1-4acfc63ceb29.png)  
+
+{:style="text-align:center"}
+![NCRN RCRC](https://user-images.githubusercontent.com/69439799/196953417-d39ba2b1-eff1-443b-90ca-5d8657749dc1.png){:width="120" height="120"}
+![Noah's Ark](https://user-images.githubusercontent.com/69439799/196953928-7e9ac318-4206-47e2-98b2-5dd398fb3a64.png){:width="120" height="120"}
 
 ## Sponsors
 
-<p align="center">
-  <img style="padding: 80px" alt="Huawei" src=https://user-images.githubusercontent.com/69439799/196959820-5ca7ed52-d510-40dd-973e-9fb733d78f27.png>
-  <p align="center">
-    <img width="120" height="120" alt="Noah's Ark" src=https://user-images.githubusercontent.com/69439799/196953928-7e9ac318-4206-47e2-98b2-5dd398fb3a64.png>
-  </p>
-</p>
+{:style="text-align:center"}
+![Huawei](https://user-images.githubusercontent.com/69439799/196959820-5ca7ed52-d510-40dd-973e-9fb733d78f27.png)  
+
+{:style="text-align:center"}
+![Noah's Ark](https://user-images.githubusercontent.com/69439799/196953928-7e9ac318-4206-47e2-98b2-5dd398fb3a64.png){:width="120" height="120"}
 
 [View more details](http://noahlab.com.hk/#/home)
 
