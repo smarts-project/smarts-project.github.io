@@ -137,7 +137,7 @@ Organizers can be reached at [**smarts4ad@gmail.com**](mailto:smarts4ad@gmail.co
 ## Organizers
 
 {:style="text-align:center"}
-![University of Alberta](https://www.ualberta.ca/_assets/images/ua-logo-green.svg){:width="268" height="100"}
+![University of Alberta](https://www.ualberta.ca/_assets/images/ua-logo-green.svg){:width="196" height="73"}
 ![University of Toronto](https://user-images.githubusercontent.com/69439799/196953728-61672f42-99f8-4555-bb79-576e04d0dcdf.png)
 ![York University](https://user-images.githubusercontent.com/69439799/196953742-7ec4d140-d99b-48da-ad26-2e632c49ce6a.png)  
 
@@ -152,7 +152,7 @@ Organizers can be reached at [**smarts4ad@gmail.com**](mailto:smarts4ad@gmail.co
 ## Sponsors
 
 {:style="text-align:center"}
-![Huawei](https://user-images.githubusercontent.com/69439799/196984745-83c08c19-a2ad-41dd-a49b-ba3fde6864bc.png)  
+![Huawei](https://www-file.huawei.com/-/media/corporate/images/home/logo/huawei_logo.png)  
 
 {:style="text-align:center"}
 ![Noah's Ark](https://user-images.githubusercontent.com/69439799/196953928-7e9ac318-4206-47e2-98b2-5dd398fb3a64.png){:width="120" height="120"}
