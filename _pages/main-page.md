@@ -134,16 +134,30 @@ Organizers can be reached at [**smarts4ad@gmail.com**](mailto:smarts4ad@gmail.co
 
 [Return to top](#the-competition)
 
-## About Noah’s Ark Lab
-[About Huawei]()
+## Organizers
 
-The Noah’s Ark Lab is the AI research center for Huawei Technologies, located in Hong Kong, Shenzhen, Beijing, Shanghai, Xi’an, London, Paris, Toronto, Montreal, Edmonton, etc.
+<p align="center">
+  <img alt="University of Alberta" src=https://user-images.githubusercontent.com/69439799/196953519-479e3cb8-292b-49bf-ad59-c2bdc1e82fdb.png>
+  <img alt="University of Toronto" src=https://user-images.githubusercontent.com/69439799/196953728-61672f42-99f8-4555-bb79-576e04d0dcdf.png>
+  <img alt="York University" src=https://user-images.githubusercontent.com/69439799/196953742-7ec4d140-d99b-48da-ad26-2e632c49ce6a.png>
+</p>
+<p align="center">
+  <img alt="Universite de Montreal" src=https://user-images.githubusercontent.com/69439799/196953954-609896af-d05d-4801-bdb6-91bfa3898290.png>
+  <img alt="McGill University" src=https://user-images.githubusercontent.com/69439799/196954083-c4b2cccf-d131-471b-8aa1-4acfc63ceb29.png>
+</p>
+<p align="center">
+  <img width="120" height="120" alt="NCRN RCRC" src=https://user-images.githubusercontent.com/69439799/196953417-d39ba2b1-eff1-443b-90ca-5d8657749dc1.png>
+  <img width="120" height="120" alt="Noah's Ark" src=https://user-images.githubusercontent.com/69439799/196953928-7e9ac318-4206-47e2-98b2-5dd398fb3a64.png>
+</p>
 
-The mission of the lab is to make significant contributions to both the company and society by innovating in artificial intelligence, data mining and related fields. Mainly driven by long term and big impact projects, research in the lab also tries to advance the state of the art in the fields as well as to harness the products and services of the company, at each stage of the innovation process.
+## Sponsors
 
-As a world class research lab, we are pushing the frontier of research and development in all areas that we work in.We dare to address both the challenges and opportunities in this era of AI and big data, to revolutionize the ways in which people work and live, and the ways in which companies do business, through intelligentization of all processes, with the slogan 'from big data to deep knowledge'.
-
-Research areas of the lab include computer vision, natural language processing, search & recommendation, decision and reasoning ,AI theory. Founded in 2012, the lab has now grown to be a research organization with many significant achievements in both academia and industry. We welcome talented researchers and engineers to join us to realize their dreams.
+<p align="center">
+  <img style="padding: 80px" alt="Huawei" src=https://user-images.githubusercontent.com/69439799/196959820-5ca7ed52-d510-40dd-973e-9fb733d78f27.png>
+  <p align="center">
+    <img width="120" height="120" alt="Noah's Ark" src=https://user-images.githubusercontent.com/69439799/196953928-7e9ac318-4206-47e2-98b2-5dd398fb3a64.png>
+  </p>
+</p>
 
 [View more details](http://noahlab.com.hk/#/home)
 
