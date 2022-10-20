@@ -29,7 +29,7 @@ Winners in each track will receive cash prizes and will get a chance to present 
 [Return to top](#the-competition)
 
 ### Competition timeline
-The NeurIPS 2022 Driving SMARTS competition is a programming competition organised by NSERC Canadian Robotics Network (NCRN) and academic collaborators from Canadian universities.
+The NeurIPS 2022 Driving SMARTS competition is a programming competition organised by NCRN and academic collaborators from Canadian universities.
 
 * Aug. 1, 2022: competition opens.
 * Nov. 1, 2022: competition closes at 11:59pm Pacific Time.
