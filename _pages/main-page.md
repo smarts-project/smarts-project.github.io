@@ -147,7 +147,6 @@ Organizers can be reached at [**smarts4ad@gmail.com**](mailto:smarts4ad@gmail.co
 
 {:style="text-align:center"}
 ![NCRN RCRC](https://user-images.githubusercontent.com/69439799/196953417-d39ba2b1-eff1-443b-90ca-5d8657749dc1.png){:width="120" height="120"}
-![Noah's Ark](https://user-images.githubusercontent.com/69439799/196953928-7e9ac318-4206-47e2-98b2-5dd398fb3a64.png){:width="120" height="120"}
 
 ## Sponsors
 
