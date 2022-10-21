@@ -104,7 +104,7 @@ Official rule clarifications will be posted here.
 - **Soheil Alizadeh**
   - Research Engineer, Huawei Noah's Ark Lab
 - **Montgomery Alban**
-  - Senior Software Engineer, Huawei Noah's Ark Lab
+  - Software Engineer, Huawei Noah's Ark Lab
 - **Florian Shkurti**
   - Asisstant Professor, University of Toronto
 - **Yuzheng Zhuang**
@@ -112,7 +112,7 @@ Official rule clarifications will be posted here.
 - **Kasra Rezaee**
   - Staff Engineer, Huawei Noah's Ark Lab  
 - **Xinyu Wang**
-  - ADS Planning and Control Chief Architect, IAS BU
+  - ADS Planning and Control Chief Architect, Huawei IAS BU
 - **Weinan Zhang**
   - Associate Processor, Shanghai Jiao Tong University
 - **Xi Chen**
