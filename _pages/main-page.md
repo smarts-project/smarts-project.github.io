@@ -20,7 +20,7 @@ The competition objective is to train a single policy capable of controlling sin
 
 #### Track 1
 
-Task: Any method such as reinforcement learning, offline reinforcement learning, behaviour cloning, generative models, predictive models, etc..., may be used to develop the policy.
+Task: Any method may be used to develop the policy.
 
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
