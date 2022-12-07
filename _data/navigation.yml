@@ -1,7 +1,7 @@
 main:
   - title: "Main"
     url: /
-  - title: "Results"
-    url: /results/
+  - title: "NIPS 2022"
+    url: /archive/2022_nips_driving_smarts/
   - title: "About"
     url: /about/
