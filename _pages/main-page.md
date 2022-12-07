@@ -16,10 +16,11 @@ The competition page can be seen at [2022 Neurips Driving SMARTS Competition](/a
 
 ### Results
 
+The competition objective is to train a single policy capable of controlling single-agent or multi-agent to complete different driving tasks in various scenarios.
+
 #### Track 1
 
-(a) Objective is to train a single policy capable of controlling single-agent or multi-agent to complete different driving tasks in various scenarios.
-(b) Any method such as reinforcement learning, offline reinforcement learning, behaviour cloning, generative models, predictive models, etc, may be used to develop the policy.
+Any method such as reinforcement learning, offline reinforcement learning, behaviour cloning, generative models, predictive models, etc, may be used to develop the policy.
 
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
@@ -29,8 +30,7 @@ The competition page can be seen at [2022 Neurips Driving SMARTS Competition](/a
 
 #### Track 2
 
-(a) Objective is to train a single policy capable of controlling single-agent or multi-agent to complete different driving tasks in various scenarios.
-(b) An offline learning method using offline datasets must be used to develop the policy.
+An offline learning method using offline datasets must be used to develop the policy.
 
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
