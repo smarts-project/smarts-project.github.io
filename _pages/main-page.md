@@ -21,7 +21,7 @@ The competition page can be seen at [2022 Neurips Driving SMARTS Competition](/a
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
 | #1          | tjudrllab-fanta  | [wip]()     | [wip]()     |
-| #2          | VCR         | [SMARTS_VCR]([https://github.com/yuant95/SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38))     | [wip]()     |
+| #2          | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [wip]()     |
 | #3          | AID         | [smarts-comp-track1](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track1)     | [wip]()     |
 
 #### Track 2
@@ -29,5 +29,5 @@ The competition page can be seen at [2022 Neurips Driving SMARTS Competition](/a
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
 | #1          | tjudrllab-fanta  | [wip]()     | [wip]()     |
-| #2          | VCR         | [SMARTS_VCR]([https://github.com/yuant95/SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38))     | [wip]()     |
+| #2          | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [wip]()     |
 | #3          | AID         | [smarts-comp-track2](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track2)     | [wip]()     |
