@@ -24,9 +24,9 @@ Task: Any method may be used to develop the policy.
 
 | Rank        | Prize   | Team        | Solution    | Presentation |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st         | 6000 USD | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [wip]()     |
-| 2nd         | 4000 USD | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [wip]()     |
-| 3rd         | 2000 USD | AID         | [smarts-comp-track1](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track1)     | [wip]()     |
+| 1st         | 6000 USD | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [tjudrllab_fanta_driving_smarts](assets/docs/neurips_2022_smarts_method-TJUDRLLAB_Fanta.pdf)     |
+| 2nd         | 4000 USD | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [vcr_driving_smarts](assets/docs/team_VCRs_approach_to_neurips_driving_smarts_competition.pdf)     |
+| 3rd         | 2000 USD | AID         | [smarts-comp-track1](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track1)     | [aid_driving_smarts](assets/docs/aid_driving_smarts.pdf)     |
 
 Congratulations to the Track 1 winners!
 
@@ -36,9 +36,9 @@ Task: An offline learning method using offline datasets must be used to develop 
 
 | Rank        | Prize   | Team        | Solution    | Presentation |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st         | 6000 USD | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [wip]()     |
-| 2nd         | 4000 USD | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [wip]()     |
-| 3rd         | 2000 USD | AID         | [smarts-comp-track2](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track2)     | [wip]()     |
+| 1st         | 6000 USD | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [tjudrllab_fanta_driving_smarts](assets/docs/neurips_2022_smarts_method-TJUDRLLAB_Fanta.pdf)     |
+| 2nd         | 4000 USD | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [vcr_driving_smarts](assets/docs/team_VCRs_approach_to_neurips_driving_smarts_competition.pdf)     |
+| 3rd         | 2000 USD | AID         | [smarts-comp-track2](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track2)     | [aid_driving_smarts](assets/docs/aid_driving_smarts.pdf)     |
 
 
 Congratulations to the Track 2 winners!

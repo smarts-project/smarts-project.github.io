@@ -75,3 +75,6 @@ defaults:
       type: pages
     values:
       layout: single
+  - scope:
+      path: "assets/doc"
+
