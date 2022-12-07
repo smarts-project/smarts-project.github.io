@@ -6,7 +6,7 @@ toc: true
 
 ## Archive
 
-Here you may find previous events related to SMARTS competitions.
+Here you may find previous events related to SMARTS competitions and publications.
 
 ## 2022
 - [NeurIPS 2022: Driving SMARTS](/archive/2022_nips_driving_smarts)
