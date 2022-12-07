@@ -47,7 +47,7 @@ Congratulations to the Track 2 winners!
 
 | Category        | Prize   | Team        |
 | ----------- | ----------- | ----------- |
-| Most Inovative         | 1000 USD | AID  |
+| Most Innovative         | 1000 USD | AID  |
 | Participation (Random selection)   | 1000 USD | tjudrllab-mb  |
 
-Congratulations!
+Congratulations to AID for being unanimously voted by the organizing team as having the most innovative solution!
