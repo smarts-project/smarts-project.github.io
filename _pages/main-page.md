@@ -6,7 +6,7 @@ toc: true
 
 ## 2022 NeurIPS Driving SMARTS Competition
 
-### UPDATE
+### End Notice
 
 The 2022 NeurIPS Driving SMARTS Competition has now ended!
 
