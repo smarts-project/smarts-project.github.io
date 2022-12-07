@@ -20,14 +20,14 @@ The competition page can be seen at [2022 Neurips Driving SMARTS Competition](/a
 
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
-| #1          | tju         | [wip]()     | [wip]()     |
-| #2          | VCR         | [wip]()     | [wip]()     |
-| #3          | AID         | [wip]()     | [wip]()     |
+| #1          | tjudrllab-fanta  | [wip]()     | [wip]()     |
+| #2          | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR)     | [wip]()     |
+| #3          | AID         | [smarts-comp-track1](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track1)     | [wip]()     |
 
 #### Track 2
 
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
-| #1          | tju         | [wip]()     | [wip]()     |
-| #2          | VCR         | [wip]()     | [wip]()     |
+| #1          | tjudrllab-fanta  | [wip]()     | [wip]()     |
+| #2          | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR)     | [wip]()     |
 | #3          | AID         | [wip]()     | [wip]()     |
