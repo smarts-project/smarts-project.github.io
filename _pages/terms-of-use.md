@@ -1,6 +1,6 @@
 ---
-permalink: /terms-of-use/
-title: "Terms of Use"
+permalink: /terms-of-participation/
+title: "Terms of participation"
 ---
 
 # Conditions of Participation for the SMARTS Competition
