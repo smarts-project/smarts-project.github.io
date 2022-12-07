@@ -22,18 +22,23 @@ The competition objective is to train a single policy capable of controlling sin
 
 Task: Any method may be used to develop the policy.
 
-| Rank        | Team        | Solution    | Presentation |
-| ----------- | ----------- | ----------- | ----------- |
-| 1st          | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [wip]()     |
-| 2nd          | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [wip]()     |
-| 3rd          | AID         | [smarts-comp-track1](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track1)     | [wip]()     |
+| Rank        | Prize   | Team        | Solution    | Presentation |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st         | 6000 USD | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [wip]()     |
+| 2nd         | 4000 USD | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [wip]()     |
+| 3rd         | 2000 USD | AID         | [smarts-comp-track1](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track1)     | [wip]()     |
+
+Congratulations to the Track 1 winners!
 
 #### Track 2
 
 Task: An offline learning method using offline datasets must be used to develop the policy.
 
-| Rank        | Team        | Solution    | Presentation |
-| ----------- | ----------- | ----------- | ----------- |
-| 1st          | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [wip]()     |
-| 2nd          | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [wip]()     |
-| 3rd          | AID         | [smarts-comp-track2](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track2)     | [wip]()     |
+| Rank        | Prize   | Team        | Solution    | Presentation |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st         | 6000 USD | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [wip]()     |
+| 2nd         | 4000 USD | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [wip]()     |
+| 3rd         | 2000 USD | AID         | [smarts-comp-track2](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track2)     | [wip]()     |
+
+
+Congratulations to the Track 2 winners!
