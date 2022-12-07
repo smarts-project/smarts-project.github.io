@@ -3,5 +3,7 @@ main:
     url: /
   - title: "NIPS 2022"
     url: /archive/2022_nips_driving_smarts/
+  - title: "Archive"
+    url: /archive/
   - title: "About"
     url: /about/
