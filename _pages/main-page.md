@@ -22,7 +22,7 @@ The competition objective is to train a single policy capable of controlling sin
 
 Task: Any method may be used to develop the policy.
 
-| Rank        | Team        | Solution    | Explanation |
+| Rank        | Team        | Solution    | Presentation |
 | ----------- | ----------- | ----------- | ----------- |
 | 1st          | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [wip]()     |
 | 2nd          | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [wip]()     |
@@ -32,7 +32,7 @@ Task: Any method may be used to develop the policy.
 
 Task: An offline learning method using offline datasets must be used to develop the policy.
 
-| Rank        | Team        | Solution    | Explanation |
+| Rank        | Team        | Solution    | Presentation |
 | ----------- | ----------- | ----------- | ----------- |
 | 1st          | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [wip]()     |
 | 2nd          | VCR         | [SMARTS_VCR](https://github.com/yuant95/SMARTS_VCR/tree/ddc23f73556eb946f02e0699cc0fa2294a0ffc38)     | [wip]()     |
