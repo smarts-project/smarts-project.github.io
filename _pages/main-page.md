@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the 2022 NeurIPS Driving SMARTS Competition"
+title: "SMARTS (Scalable Multi-Agent RL Training School)"
 toc: true
 ---
 
