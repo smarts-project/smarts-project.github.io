@@ -18,6 +18,9 @@ The competition page can be seen at [2022 Neurips Driving SMARTS Competition](/a
 
 #### Track 1
 
+(a) Objective is to train a single policy capable of controlling single-agent or multi-agent to complete different driving tasks in various scenarios.
+(b) Any method such as reinforcement learning, offline reinforcement learning, behaviour cloning, generative models, predictive models, etc, may be used to develop the policy.
+
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
 | 1st          | tjudrllab-fanta  | [fanta-code](https://github.com/superCat-star/fanta-code)     | [wip]()     |
@@ -25,6 +28,9 @@ The competition page can be seen at [2022 Neurips Driving SMARTS Competition](/a
 | 3rd          | AID         | [smarts-comp-track1](https://github.com/MCZhi/Predictive-Decision/tree/smarts-comp-track1)     | [wip]()     |
 
 #### Track 2
+
+(a) Objective is to train a single policy capable of controlling single-agent or multi-agent to complete different driving tasks in various scenarios.
+(b) An offline learning method using offline datasets must be used to develop the policy.
 
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
