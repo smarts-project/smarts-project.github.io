@@ -1,5 +1,7 @@
 main:
   - title: "Main"
     url: /
+  - title: "Results"
+    url: /results/
   - title: "About"
     url: /about/
