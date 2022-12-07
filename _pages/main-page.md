@@ -4,6 +4,14 @@ title: "Welcome to the 2022 NeurIPS Driving SMARTS Competition"
 toc: true
 ---
 
+## UPDATE
+
+The 2022 NeurIPS Driving SMARTS Competition has now ended!
+
+Many thanks to all the organizers and participants who contributed to the competition.
+
+The results can be seen at [2022 Neurips Driving SMARTS Competition Results](/results/)
+
 ## The Competition
 
 Autonomous driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in an autonomous driving competition organised by NSERC Canadian Robotics Network (NCRN) and Canadian academic collaborators.
