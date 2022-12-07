@@ -20,7 +20,7 @@ The competition objective is to train a single policy capable of controlling sin
 
 #### Track 1
 
-Any method such as reinforcement learning, offline reinforcement learning, behaviour cloning, generative models, predictive models, etc, may be used to develop the policy.
+Task: Any method such as reinforcement learning, offline reinforcement learning, behaviour cloning, generative models, predictive models, etc..., may be used to develop the policy.
 
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
@@ -30,7 +30,7 @@ Any method such as reinforcement learning, offline reinforcement learning, behav
 
 #### Track 2
 
-An offline learning method using offline datasets must be used to develop the policy.
+Task: An offline learning method using offline datasets must be used to develop the policy.
 
 | Rank        | Team        | Solution    | Explanation |
 | ----------- | ----------- | ----------- | ----------- |
