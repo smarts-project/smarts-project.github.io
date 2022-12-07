@@ -44,8 +44,10 @@ Task: An offline learning method using offline datasets must be used to develop 
 Congratulations to the Track 2 winners!
 
 #### Bonus Awards
+
 | Category        | Prize   | Team        |
 | ----------- | ----------- | ----------- |
 | Most Inovative         | 1000 USD | AID  |
 | Participation (Random selection)   | 1000 USD | tjudrllab-mb  |
 
+Congratulations!
