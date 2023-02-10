@@ -11,7 +11,7 @@ The 2022 NeurIPS Driving SMARTS Competition has now ended!
 
 Many thanks to all the organizers and participants who contributed to the competition.
 
-The competition page can be seen at [2022 Neurips Driving SMARTS Competition](/archive/2022_nips_driving_smarts/)
+The original competition  can be seen at [2022 Neurips Driving SMARTS Competition](#the-competition)
 
 ## Results
 
@@ -55,7 +55,9 @@ Congratulations to AID for being unanimously voted by the organizing team as hav
 
 Autonomous driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in an autonomous driving competition organised by NSERC Canadian Robotics Network (NCRN) and Canadian academic collaborators.
 
-## The competition is now live at codalab: [2022 Neurips Driving SMARTS Competition](https://codalab.lisn.upsaclay.fr/competitions/6618)
+## Codalab site 
+
+[2022 Neurips Driving SMARTS Competition](https://codalab.lisn.upsaclay.fr/competitions/6618)
 
 ## Tasks and evaluation
 This competition seeks to advance autonomous driving by developing agents that can drive as quickly and safely as possible from the start to destination amid background traffic. Data for the competition consists of large-scale naturalistic driving data replayed within [SMARTS](https://github.com/huawei-noah/SMARTS/tree/comp-1) simulation environment. The following typical driving scenarios are tested: cruising, overtaking, merging, left turns at unsignalized intersections and being cut off by another vehicle. These scenarios are mined from the naturalistic data, manipulated and replayed in SMARTS. For some scenarios, interactive background vehicles are added in SMARTS.
