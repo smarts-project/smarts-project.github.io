@@ -51,11 +51,13 @@ Congratulations to the Track 2 winners!
 
 Congratulations to AID for being unanimously voted by the organizing team as having the most innovative solution!
 
+
 ## The Competition
 
 Autonomous driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in an autonomous driving competition organised by NSERC Canadian Robotics Network (NCRN) and Canadian academic collaborators.
 
-### Codalab site 
+
+### Codalab Site 
 
 [2022 Neurips Driving SMARTS Competition](https://codalab.lisn.upsaclay.fr/competitions/6618)
 
