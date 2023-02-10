@@ -11,7 +11,7 @@ The 2022 NeurIPS Driving SMARTS Competition has now ended!
 
 Many thanks to all the organizers and participants who contributed to the competition.
 
-The original competition  can be seen at [2022 Neurips Driving SMARTS Competition](#the-competition)
+The original competition notice can be seen at [here](#the-competition)
 
 ## Results
 
