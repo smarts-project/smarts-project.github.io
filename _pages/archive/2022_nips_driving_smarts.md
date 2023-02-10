@@ -51,20 +51,20 @@ Congratulations to the Track 2 winners!
 
 Congratulations to AID for being unanimously voted by the organizing team as having the most innovative solution!
 
-# The Competition
+## The Competition
 
 Autonomous driving (AD) is the next frontier of artificial intelligence and machine learning. Intending to further research in AD, we invite you to participate in an autonomous driving competition organised by NSERC Canadian Robotics Network (NCRN) and Canadian academic collaborators.
 
-## Codalab site 
+### Codalab site 
 
 [2022 Neurips Driving SMARTS Competition](https://codalab.lisn.upsaclay.fr/competitions/6618)
 
-## Tasks and evaluation
+### Tasks and evaluation
 This competition seeks to advance autonomous driving by developing agents that can drive as quickly and safely as possible from the start to destination amid background traffic. Data for the competition consists of large-scale naturalistic driving data replayed within [SMARTS](https://github.com/huawei-noah/SMARTS/tree/comp-1) simulation environment. The following typical driving scenarios are tested: cruising, overtaking, merging, left turns at unsignalized intersections and being cut off by another vehicle. These scenarios are mined from the naturalistic data, manipulated and replayed in SMARTS. For some scenarios, interactive background vehicles are added in SMARTS.
 
 Agents will be ranked according to metrics on safety and comfort (smoothness and safe driving), task completion (% of completed scenarios), traffic rule violation, and completion time.
 
-## Competition tracks
+### Competition tracks
 There are two tracks in the competition.
 
 **Track 1**: The participants may use *any* method and training data to develop their solutions. 
@@ -75,7 +75,7 @@ Winners in each track will receive cash prizes and will get a chance to present 
 
 [Return to top](#the-competition)
 
-## Competition timeline
+### Competition timeline
 The NeurIPS 2022 Driving SMARTS competition is a programming competition organised by NCRN and academic collaborators from Canadian universities.
 
 * Aug. 1, 2022: competition opens.
@@ -86,7 +86,7 @@ The NeurIPS 2022 Driving SMARTS competition is a programming competition organis
 
 [Return to top](#the-competition)
 
-## Prizes
+### Prizes
 Top participants in each track will receive the following prizes:
 - **Gold** US$6000
 - **Silver** US$4000
@@ -98,7 +98,7 @@ Additional prizes:
 
 [Return to top](#the-competition)
 
-## General Rules
+### General Rules
 
 - Participants can be a single entrant or part of a team;
 - Participants must be registered for the competition prior to submitting an entry;
@@ -111,7 +111,7 @@ Additional prizes:
 
 [Return to top](#the-competition)
 
-### How to enter
+#### How to enter
 - The individual participant or, if a team is entering, a team representative, must register with the Organiser through the ["2022 Neurips Driving SMARTS Competition" site](https://codalab.lisn.upsaclay.fr/competitions/6618).
 - The participants will be provided login details to CodaLab to submit a competition entry;
 - Starter kit and necessary documentation will be available upon registration;
@@ -120,10 +120,10 @@ Additional prizes:
 
 [Return to top](#the-competition)
 
-## Submission site
+### Submission site
 The competition is run from the following site: [Driving SMARTS Competition submission](https://codalab.lisn.upsaclay.fr/competitions/6618)
 
-## How winners are determined
+### How winners are determined
 - Submissions for Track 1 will be automatically evaluated on a test set and the results will be posted on the public leaderboard hosted on CodaLab.
 - Top-6 finalists in Track 1 that use offline methods will be invited to submit their training and inference code. The organizers will train and evaluate the models on the withheld dataset. 
 - Winners of Track 2 will be determined based on the performance of the models trained by the Organizer.
@@ -131,12 +131,12 @@ The competition is run from the following site: [Driving SMARTS Competition subm
 
 [Return to top](#the-competition)
 
-## FAQ
+### FAQ
 Official rule clarifications will be posted here.
 
 [Return to top](#the-competition)
 
-## Competition Organizing Committee
+### Competition Organizing Committee
 - **Amir Rasouli**
   - Senior Staff Engineer, Huawei Noah's Ark Lab
 - **Randy Goebel**
@@ -165,7 +165,7 @@ Official rule clarifications will be posted here.
   - Associate Processor, Shanghai Jiao Tong University
 - **Xi Chen**
   - Senior Principal Engineer, Huawei Noah's Ark Lab & Adjunct Professor, McGill University 
-### Advisers
+#### Advisers
 - **Animesh Garg**
   - Assistant Professor, University of Toronto
 - **David Meger**
@@ -177,12 +177,12 @@ Official rule clarifications will be posted here.
 
 [Return to top](#the-competition)
 
-## Contact Us
+### Contact Us
 Organizers can be reached at [**smarts4ad@gmail.com**](mailto:smarts4ad@gmail.com).
 
 [Return to top](#the-competition)
 
-## Organizers
+### Organizers
 
 {:style="text-align:center"}
 ![University of Alberta](https://www.ualberta.ca/_assets/images/ua-logo-green.svg){:width="196" height="73"}
@@ -196,7 +196,7 @@ Organizers can be reached at [**smarts4ad@gmail.com**](mailto:smarts4ad@gmail.co
 {:style="text-align:center"}
 ![NCRN RCRC](https://user-images.githubusercontent.com/69439799/196953417-d39ba2b1-eff1-443b-90ca-5d8657749dc1.png){:width="120" height="120"}
 
-## Sponsors
+### Sponsors
 
 {:style="text-align:center"}
 ![Huawei](https://www-file.huawei.com/-/media/corporate/images/home/logo/huawei_logo.png)  
