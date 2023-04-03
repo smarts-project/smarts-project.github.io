@@ -1,5 +1,5 @@
 ---
-permalink: /terms-of-use/
+permalink: /agreements/terms-of-use/
 title: "Terms of Use"
 toc: true
 ---
