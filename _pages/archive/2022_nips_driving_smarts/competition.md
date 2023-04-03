@@ -1,5 +1,5 @@
 ---
-permalink: /archive/2022_nips_driving_smarts/
+permalink: /archive/2022_nips_driving_smarts/competition
 title: "NeurIPS 2022 Driving SMARTS Competition"
 toc: true
 ---
