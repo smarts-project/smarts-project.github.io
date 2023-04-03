@@ -60,7 +60,7 @@ plugins:
 footer:
   links:
     - label: "Terms of Use"
-      url: "/terms-of-use/"
+      url: "/agreements/terms-of-use/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/huawei-noah/SMARTS"
