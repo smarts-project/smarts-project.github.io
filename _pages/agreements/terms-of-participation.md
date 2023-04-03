@@ -1,5 +1,5 @@
 ---
-permalink: /terms-of-participation-2022/
+permalink: /agreements/terms-of-participation-2022/
 title: "Terms of participation"
 ---
 
