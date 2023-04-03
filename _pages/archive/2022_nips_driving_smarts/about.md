@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /2022_nips_driving_smarts/about/
 title: "About"
 toc: true
 ---
