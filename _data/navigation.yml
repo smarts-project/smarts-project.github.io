@@ -2,7 +2,7 @@ main:
   - title: "Main"
     url: /
   - title: "NeurIPS 2022"
-    url: /archive/2022_nips_driving_smarts/competition/
+    url: /archive/2022_nips_driving_smarts/competition
   - title: "Archive"
     url: /archive/
   - title: "About"
