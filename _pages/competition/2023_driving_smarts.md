@@ -48,7 +48,7 @@ TODO
   - be at least 18 years old or age of majority in place of residence;
   - not be an organizer of this competition or a family member of a competition organizer;
 - Any submissions entered after the competition closes will be automatically disqualified.
-- Teams found using multiple accounts will be disqualified.
+- Teams found using multiple accounts will have all submissions aside from their earliest account disqualified;
 
 [Return to top](#the-competition)
 
