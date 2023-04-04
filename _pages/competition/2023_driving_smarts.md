@@ -12,10 +12,10 @@ Autonomous driving (AD) is the next frontier of artificial intelligence and mach
 
 ### Codalab Site 
 
-[Driving SMARTS Competition](/TODO/)
+[Driving SMARTS Competition](/todo/)
 
 ### Tasks and evaluation
-This competition seeks to advance autonomous driving by developing agents that can drive as quickly and safely as possible from the start to destination amid background traffic. Data for the competition consists of large-scale naturalistic driving data replayed within [SMARTS](https://github.com/huawei-noah/SMARTS/tree/comp-1) simulation environment. The following typical driving scenarios are tested: cruising, overtaking, merging, left turns at unsignalized intersections and being cut off by another vehicle. These scenarios are mined from the naturalistic data, manipulated and replayed in SMARTS. For some scenarios, interactive background vehicles are added in SMARTS.
+This competition seeks to advance autonomous driving by developing agents that can drive as quickly and safely as possible from the start to destination amid background traffic. Data for the competition consists of large-scale naturalistic driving data replayed within [SMARTS](https://github.com/huawei-noah/SMARTS/) simulation environment. The following typical driving scenarios are tested: cruising, overtaking, merging, left turns at unsignalized intersections and being cut off by another vehicle. These scenarios are mined from the naturalistic data, manipulated and replayed in SMARTS. For some scenarios, interactive background vehicles are added in SMARTS.
 
 Agents will be ranked according to metrics on safety and comfort (smoothness and safe driving), task completion (% of completed scenarios), traffic rule violation, and completion time.
 
@@ -52,7 +52,7 @@ TODO
 [Return to top](#the-competition)
 
 #### How to enter
-- The individual participant or, if a team is entering, a team representative, must register with the Organiser through the ["Driving SMARTS Competition" site](/TODO/).
+- The individual participant or, if a team is entering, a team representative, must register with the Organiser through the ["Driving SMARTS Competition" site](/todo/).
 - The participants will be provided login details to CodaLab to submit a competition entry;
 - Starter kit and necessary documentation will be available upon registration;
 - The entry sumitted by the participant will consist of the pretrained model and inference code. Select participants who opted to compete in track 2 will be requested to submit their training code.
@@ -61,7 +61,7 @@ TODO
 [Return to top](#the-competition)
 
 ### Submission site
-The competition is run from the following site: TODO
+The competition is run from the following site: ["2023 Driving SMARTS Competition"](/todo/)
 
 ### How winners are determined
 TODO
@@ -76,10 +76,6 @@ TODO
 [Return to top](#the-competition)
 
 ### Competition Organizing Committee
-- **Amir Rasouli**
-  - Senior Staff Engineer, Huawei Noah's Ark Lab
-- **Montgomery Alban**
-  - Software Engineer, Huawei Noah's Ark Lab
 TODO
 
 #### Advisers
