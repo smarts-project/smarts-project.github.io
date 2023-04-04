@@ -47,15 +47,15 @@ TODO
 - For the participants or a team to be eligible for receiving awards, each member must satisfy the following conditions:
   - be at least 18 years old or age of majority in place of residence;
   - not be an organizer of this competition or a family member of a competition organizer;
-- Any submissions entered after the competition closes will be automatically disqualified. 
+- Any submissions entered after the competition closes will be automatically disqualified.
+- Teams found using multiple accounts will be disqualified.
 
 [Return to top](#the-competition)
 
 #### How to enter
 - The individual participant or, if a team is entering, a team representative, must register with the Organiser through the ["Driving SMARTS Competition" site](/todo/).
-- The participants will be provided login details to CodaLab to submit a competition entry;
-- Starter kit and necessary documentation will be available upon registration;
-- The entry sumitted by the participant will consist of the pretrained model and inference code. Select participants who opted to compete in track 2 will be requested to submit their training code.
+- The participants will be provided login details to CodaLab to submit a competition entry.
+- Starter kit and necessary documentation is available [here](/todo/).
 - Participants may submit up to 3 entries to the competition.
 
 [Return to top](#the-competition)
