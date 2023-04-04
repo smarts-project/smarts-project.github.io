@@ -1,6 +1,8 @@
 main:
   - title: "Main"
     url: /
+  - title: "Driving SMARTS 2.0"
+    url: /competition/2023_driving_smarts/
   - title: "NeurIPS 2022"
     url: /archive/2022_nips_driving_smarts/competition/
   - title: "Archive"
